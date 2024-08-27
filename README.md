@@ -6,6 +6,7 @@
 ## ***Структура проекта***
 
 - [Project.ipunb](https://github.com/Dashaklen/HHproject/blob/master/Project.ipynb): Jupyter ноутбук с анализом данных и построением графиков.
+- [Графики](https://github.com/Dashaklen/HHproject/tree/master/%D0%93%D1%80%D0%B0%D1%84%D0%B8%D0%BA%D0%B8): Папка с графиками
 - [reqirements.txt](https://github.com/Dashaklen/HHproject/blob/master/requirements.txt): Зависимости
 - [README.md](https://github.com/Dashaklen/Customer_churn_analysis_bank/blob/main/README.md): Описание проекта.'
 - Данные, использованные в проекте можно скачать по ссылкам:
