@@ -1,4 +1,4 @@
-# Проект: Предподготовка данных для постоение модели для автоматической оценки уровня зарплаты на основании резюме
+# Проект: Предподготовка данных для постоения модели для автоматической оценки уровня зарплаты на основании резюме
 ## ***Описание проекта***
 Этот проект посвящён предобработке данных для дальнейшей разработки модели машинного обучения, предназначенной для автоматической оценки примерного уровня заработной платы на основе информации, указанной в резюме соискателей. В рамках проекта будет использоваться база данных резюме, выгруженная с сайта поиска вакансий hh.ru.
 #### Проблематика
@@ -69,7 +69,7 @@
 ## Установка и использование
 
 1. Клонируйте репозиторий:
-   git clone https://github.com/Dashaklen/Customer_churn_analysis_bank.git
+   git clone [https://github.com/Dashaklen/Customer_churn_analysis_bank.git](https://github.com/Dashaklen/HHproject)
 2. Скачайте базы данных и добавьте их в папку проекта:
 [ExchangeRates.csv](https://drive.google.com/file/d/1dd-ZY8YzLEPfJDi0Y8FdM7MULMYFagvW/view?usp=drive_link)
 [hh_database.csv](https://drive.google.com/file/d/1E8Bd4E7gVdkrFmBH20rbVgS9-l31VCFq/view?usp=drive_link)
