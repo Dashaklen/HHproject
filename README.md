@@ -69,7 +69,7 @@
 ## Установка и использование
 
 1. Клонируйте репозиторий:
-   git clone [https://github.com/Dashaklen/Customer_churn_analysis_bank.git](https://github.com/Dashaklen/HHproject)
+   git clone [https://github.com/Twi1ightFox/HHproject.git](https://github.com/Twi1ightFox/HHproject)
 2. Скачайте базы данных и добавьте их в папку проекта:
 [ExchangeRates.csv](https://drive.google.com/file/d/1dd-ZY8YzLEPfJDi0Y8FdM7MULMYFagvW/view?usp=drive_link)
 [hh_database.csv](https://drive.google.com/file/d/1E8Bd4E7gVdkrFmBH20rbVgS9-l31VCFq/view?usp=drive_link)
